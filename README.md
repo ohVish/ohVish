@@ -1,4 +1,4 @@
-## Welcome to ohVish's Github Profile 👋
+## Welcome to ohVish's GitHub Profile 👋
 
 Hello! I am a Computer Engineering student specialized in AI and Computer Science.
 
