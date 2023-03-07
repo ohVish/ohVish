@@ -1,6 +1,6 @@
-## Welcome to ohVish's GitHub Profile 👋
+##ohVish's GitHub Profile 👋
 
-Hello! I am a Computer Engineer specialized in AI and Computer Science.
+PhD Student in Computer Engineering, in love with Computer Science, Developing New Software and Videogames.
 
 ### Stats
 [![ohVish's github stats](https://github-readme-stats.vercel.app/api?username=ohVish&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
